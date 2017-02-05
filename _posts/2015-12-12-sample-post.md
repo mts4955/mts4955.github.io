@@ -51,9 +51,15 @@ The border around the graph above is due to custom CSS for this site (see `publi
 
 > `<p class = "figcaption">Here is a plot for you.</p>`
 
-You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here's some inline math:  $\pi/2 \approx 1.57$.  There is displayed math as well:
+You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here's some inline math:  $$\pi/2 \approx 1.57$$.  There is displayed math as well:
 
 $$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.$$
+
+
+
+And I will like to try more latex on my own. here is some random inline equation
+
+$$\pi\sim N(0,\sigma^2)$$ so we continue 
 
 Here's the source so you can see how the above worked:
 
