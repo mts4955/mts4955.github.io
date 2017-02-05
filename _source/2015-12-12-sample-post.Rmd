@@ -50,7 +50,9 @@ $$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.$$
 
 And I will like to try more latex on my own. here is some random inline equation
 
-$$\pi\sim N(0,\sigma^2)$$ so we continue 
+$$\pi\sim N(0,\sigma^2)$$ so we continue. and now the mathematics doesnt seem to work again after commiting with R studio. I will try and write more text
+
+we are told that $$X$$ follows normal distribution that means $$X\sim N(\mu,\sigma^2)$$
 
 Here's the source so you can see how the above worked:
 
