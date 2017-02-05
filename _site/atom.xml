@@ -4,7 +4,7 @@
  <title>Statimatics</title>
  <link href="https://mts4955.github.io/atom.xml" rel="self"/>
  <link href="https://mts4955.github.io/"/>
- <updated>2017-02-05T19:52:09+01:00</updated>
+ <updated>2017-02-05T20:13:26+01:00</updated>
  <id>https://mts4955.github.io</id>
  <author>
    <name>Ojo Oluwasegun</name>
@@ -162,7 +162,7 @@
    <link href="https://mts4955.github.io/2015/12/12/test-post.html"/>
    <updated>2015-12-12T21:00:00+01:00</updated>
    <id>https://mts4955.github.io/2015/12/12/test-post</id>
-   <content type="html">&lt;h2 id=&quot;this-is-my-first-post-on-jekyll-knitr-and-it-is-quite-interesting-and-what-a-joy-it-is-to-use-also-so-here-we-go&quot;&gt;This is my first post on jekyll knitr and it is quite interesting and what a joy it is to use also. so here we go&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;this-is-my-first-post-on-jekyll-knitr-and-it-is-quite-interesting-and-what-a-joy-it-is-to-use-also-so-here-we-go-i-am-finding-this-quite-interesting&quot;&gt;This is my first post on jekyll knitr and it is quite interesting and what a joy it is to use also. so here we go. I am finding this quite interesting.&lt;/h2&gt;
 
 &lt;p&gt;So we will start by looking if jekyll is serving the site as expected&lt;/p&gt;
 
@@ -239,7 +239,7 @@ Here'&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&
   &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p class = &quot;figcaption&quot;&amp;gt;Here is a plot for you.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here’s some inline math:  &lt;script type=&quot;math/tex&quot;&gt;\pi/2 \approx 1.57&lt;/script&gt;.  There is displayed math as well:&lt;/p&gt;
+&lt;p&gt;You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here’s some inline math:  $\pi/2 \approx 1.57$.  There is displayed math as well:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\sum_{i=1}^{n} i = \frac{n(n+1)}{2}.&lt;/script&gt;
 
