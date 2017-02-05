@@ -15,7 +15,7 @@ baseurl: "" # If you are making a gh-pages project blog, this is
                         
                         # That trailing slash is important for proper storage
                         # of figures gnerated from knitting.
-baseurlknitr:  "" # This will always be your baseurl plus an extra '/'
+baseurlknitr:  "/" # This will always be your baseurl plus an extra '/'
                                 # at the end.  It's used only when knitr renders
                                 # your R Markdown files.
                         
@@ -37,4 +37,4 @@ author:
   url:            https://statimatics.com
 
 github:
-  repo:           https://github.com/mts4955
+  repo:           https://github.com/mts4955/mts4955.github.io
